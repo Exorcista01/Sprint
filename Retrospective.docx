@@ -1,0 +1,24 @@
+SPRINT RETROSPECTIVE
+Admin: Jorge Luis
+Data de entrega: 23/07/25
+
+O que funcionou bem:
+- O uso de branches facilitou o controle das mudanças separadas por arquivo.
+- Envio dos arquivos que foram solicitados.
+- Envio no tempo que pedido.
+
+O que não funcionou bem:
+- Uso do comando "git merge".
+- Algumas dúvidas com os comandos Git no início.
+- Perdi tempo tentando entender alguns coamandos do git, que não tinha conhecimento.
+
+O maior problema:
+ - Ao usar o merge no main com o index.html, ele pegou o arquivo do index, e acrescentou na main.
+ ao fazer isso no contato( git marge contato), ele pegou o arquivo index.html, que estava no main.
+ eu utilizei o git rm , para exluir o arquivo errado, e  manda ele dnv para o github, com o commit.
+
+Melhorias Futuras:
+- Organizar melhor os arquivos do projeto no repositório.
+- Aprender utilizar o jira, para organizar melhor os arquivos Scrum. E sicronizar eles com o github
+- Aprender mais sobre comandos Git para agilizar os próximos sprint
+- Empremetação de Scrum, desdo inicio do projeto
