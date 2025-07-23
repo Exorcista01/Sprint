@@ -1,20 +1,24 @@
-                            SPRINT BACKLOG
+SPRINT BACKLOG
 data de entrega: 23/07/25                                       
 
 Nessa sprint tivemos duas demandas a serem densevolvidas:
- 
-ID: 1
-Descrição: Alterar a cor do nome dos veículos para azul no index.html.
-Esforço estimado: 10 minutos;
-entrega: 22/07/25
-Responsavel: Jorge luis
 
 ID: 3
-Descrição: Atualizar os textos dos links no contato.html;
-Esforço estimado: 10 minutos;
-entrega: 22/07/25
-Responsavel: Jorge luis
+História do Usuário:"Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes dos veículos na cor azul para me proporcionar uma melhor experiência de usuário."
+Tarefa técnica: Alterar a cor do nome dos veículos para azul no arquivo index.html
+Esforço estimado: 10 minutos
+Status: Concluído
+Responsável: Jorge Luis
+Entrega: 22/07/25
 
+
+ID: 3
+História do Usuário:"Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha navegação no portal."
+Tarefa técnica: Atualizar os textos dos links no contato.html
+Esforço estimado: 10 minutos
+Status: Concluído
+Responsável: Jorge Luis
+Entrega: 22/07/25
 
 
 
